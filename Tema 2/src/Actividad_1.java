@@ -13,7 +13,7 @@ public class Actividad_1 {
 			a++;
 		}else{
 			System.out.println("La cantidad de números positivos introducidos son " +a);
-			//GitHub ejemplo
+			//GitHub ejemplo añdido 2222222
 			
 		}
 
